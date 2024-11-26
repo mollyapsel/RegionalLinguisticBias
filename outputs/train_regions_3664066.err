@@ -1,0 +1,2 @@
+  0%|          | 0/9 [00:00<?, ?it/s] 11%|█         | 1/9 [44:06<5:52:51, 2646.42s/it] 22%|██▏       | 2/9 [59:12<3:09:20, 1622.98s/it] 33%|███▎      | 3/9 [1:03:34<1:40:07, 1001.19s/it] 44%|████▍     | 4/9 [1:11:03<1:05:15, 783.09s/it]  56%|█████▌    | 5/9 [1:36:45<1:10:27, 1056.94s/it] 67%|██████▋   | 6/9 [2:01:23<1:00:00, 1200.04s/it]/var/spool/slurm/job3664066/slurm_script: line 17: 135830 Killed                  python train_models_grouped.py
+slurmstepd: error: Detected 1 oom_kill event in StepId=3664066.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,2 @@
+Republican tokens: 11699739
+Democrat tokens: 48261798

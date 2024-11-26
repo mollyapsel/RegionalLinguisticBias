@@ -1,0 +1,8 @@
+hello
+region 6: 6758329 tokens
+hello
+region 7: 15755036 tokens
+hello
+region 8: 3494063 tokens
+hello
+region 9: 8287643 tokens
